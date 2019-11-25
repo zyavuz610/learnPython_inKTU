@@ -1,4 +1,4 @@
-# Python in Karadeniz Techical University
+# Python in Karadeniz Technical University
 
 ## Basic Programming in Python
 * Basic Consepts
