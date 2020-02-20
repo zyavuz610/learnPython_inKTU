@@ -1,4 +1,4 @@
-# İleri Düzey Programlama - 6 hafta
+# Akademik Hesaplama için Python Programlama (numpy,pandas,matplotlib) - 6 hafta
 Bu eğitim daha önce Matlab vb. bir dil kullananlarak programlama yapmış ve Python programlama dilini "Sayısal Analiz", "Lineer Cebir", "Matris ve Vektör İşlemleri", "Veri İşleme ve İstatistik" gibi konularda kullanmak isteyen araştırmacılar için planlamıştır.
 
 ## Hafta 1 - numpy
