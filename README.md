@@ -1,6 +1,6 @@
 Bu Github deposu Karadeniz Teknik Üniversitesinde Python Programlama ile ilgili eğitim, proje vb. içerikleri barındırmaktadır.
 
-# Temel Python Programlama
+# [Temel Python Programlama](0_temel_python_programlama.md)
 * giriş, kurulum,
 * print() fonksiyonu,
 * veri tipleri, değişkenler, basit aritmetik işlemler
@@ -12,7 +12,7 @@ Bu Github deposu Karadeniz Teknik Üniversitesinde Python Programlama ile ilgili
 * liste indisleme ve dilimleme
 * kullanıcı tanımlı fonksiyonlar ve örnek çalışmalar
 
-# Akademik Hesaplama için Python Programlama
+# [Akademik Hesaplama için Python Programlama](1_akademik_hesaplama(numpy_pandas_matplotlib).md)
 ## Hafta 1 - numpy
 * giriş, neden numpy?
 * dizi oluşturma (yeniden, mevcut olandan, sayısal aralık vererek)
