@@ -129,8 +129,9 @@ Temel Veri Türleri
 '''
 
 year = 2003
-leap_yaer = (year%400 == 0) or (year%4==0 and year%100 != 0)
-print("sonuç",leap_yaer)
+year = int(input("Year: "))
+is_leap_yaer = (year%400 == 0) or (year%4==0 and year%100 != 0)
+print("sonuç",is_leap_yaer)
 
 # bir yıl, eğer 4 e bölünüyorsa, 100'e bölünmüyorsa, 400'e bölünüyorsa artık yıldı
 
