@@ -22,3 +22,5 @@ Bu eğitim ilk defa programlama öğrenecekler için Python dilini başlangıç 
 
 ## Hafta 6
 * kullanıcı tanımlı fonksiyonlar ve örnek çalışmalar
+
+---
