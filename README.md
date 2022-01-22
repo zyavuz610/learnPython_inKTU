@@ -1,4 +1,4 @@
-Bu Github deposu Karadeniz Teknik Üniversitesinde Python Programlama ile ilgili eğitim, proje vb. içerikleri barındırmaktadır.
+Bu Github deposu Karadeniz Teknik Üniversitesinde anlatılan Python Programlama ile ilgili eğitim, proje vb. içerikleri barındırmaktadır.
 
 [Repl.it](https://repl.it/@ZaferYavuz2/) deposu için tıklayınız.
 
