@@ -9,7 +9,8 @@ def isPrime(n):
 def printAllPrimes(n):
     for i in range(2, n):
         if isPrime(i):
-            print(i)
+            print(i,end=',')
+    print("")
 
 printAllPrimes(100)
 
@@ -22,4 +23,4 @@ def sumArray(arr):
 arr = range(1, 10)
 
 for i in arr:
-    print(i)
+    print(i,end=",")
