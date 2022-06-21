@@ -43,3 +43,13 @@ def allPalindromes(n):
             yield i
 
 ################################################
+
+def fib(n):
+  f0,f1,i = 0,1,1
+  lst = [f0,f1]
+  while(i<n):
+    f0,f1,i = f1,f0+f1,i+1
+    lst.append(f1)
+  return lst
+  
+################################################
