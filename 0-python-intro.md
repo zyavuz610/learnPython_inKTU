@@ -32,3 +32,25 @@
    * 117 - Fonksiyon parametreleri, varsayılan değerler, geri dönüş değerleri, (<a href="https://www.youtube.com/watch?v=RBEiP8hdUFs&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=18" target="_blank">video</a>)
    * 118 - Uygulama: fonksiyonlar, palindrom sayı | fibonacci dizisi | asal sayı | mükemmel sayı, (<a href="https://www.youtube.com/watch?v=f55QnZHP9y8&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=19" target="_blank">video</a>)
    * 119 - Modül kavramı | kendi modülümüzü oluşturma | import | import as | from import, (<a href="https://www.youtube.com/watch?v=nZ0sZolAEF4&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=20" target="_blank">video</a>)
+1. Tarih ve Matematik Fonksiyonları
+   * 120 - Tarih fonksiyonları | datetime modülü | doğum günü bulma programı, (<a href="https://www.youtube.com/watch?v=tUaQ_bZGCA8&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=21" target="_blank">video</a>)
+   * 121 - Matematik Fonksiyonları | math modülü | yerleşik matematik fonksiyonları (min,max,abs), (<a href="https://www.youtube.com/watch?v=dxAgqUu-rNI&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=22" target="_blank">video</a>)
+   * 122 - Uygulama: Girilen yılın hangi yüzyıla ait olduğunu bulma | sonsuz çalışan konsol, (<a href="https://www.youtube.com/watch?v=tgGZrYqvcjQ&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=23" target="_blank">video</a>)
+   * 123 - Uygulama: Artık Yıl (Leap) Hesaplama Örneği | sonsuz çalışan konsol uygulaması, (<a href="https://www.youtube.com/watch?v=RCX57Q6YLJM&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=24" target="_blank">video</a>)
+1. Tuple (Demet) Veri Yapısı
+   * 124 - Tuple (Demet) Veri Yapısı (Listeler ile karşılaştırma), (<a href="https://www.youtube.com/watch?v=utWFvm4m2LI&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=25" target="_blank">video</a>)
+   * 125 - Tuple (Demet) Üzerinde İşlemler (Listeler ile karşılaştırma) | ayrıntılı anlatım, (<a href="https://www.youtube.com/watch?v=ALiW41SWy50&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=26" target="_blank">video</a>)
+   * 126 - Uygulama: şehirler için plaka bulma örneği, (<a href="https://www.youtube.com/watch?v=-gBc2-Qa0_o&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=27" target="_blank">video</a>)
+   * 127 - Örnek Projeler (önceki konuları kullanarak yapılabilen), (<a href="https://www.youtube.com/watch?v=xeZSdxOjwgc&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=28" target="_blank">video</a>)
+   * 128 - Örnek Problem 1: Listeler | ardışıl 2 elemanın çarpımları arasında max ve min bulma, (<a href="https://www.youtube.com/watch?v=W-1bF4Dp9wA&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=29" target="_blank">video</a>)
+   * 129 - Örnek Problem 2: Döngüler | Eşkenar üçgen çizimi, print fonksiyonu, string çoğaltma, (<a href="https://www.youtube.com/watch?v=QoUhNRDJvfw&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=30" target="_blank">video</a>)
+   * 130 - Örnek Problem 3 | Döngüler | Sıralı listeden eksik elemanları bulma, (<a href="https://www.youtube.com/watch?v=vJwq8E0Ce8Y&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=31" target="_blank">video</a>)
+1. Set (Küme) Veri Yapısı
+   * 131 - Sets (Küme veri yapısı) | basit işlemler, küme üzerinde döngü ve in operatörü, (<a href="https://www.youtube.com/watch?v=NEv_8XyxfOs&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=32" target="_blank">video</a>)
+   * 132 : Set (Küme) İşlemleri, eleman ekleme, silme, kesişim, birleşim, fark, simetrik fark, (<a href="https://www.youtube.com/watch?v=RTxs-vC3NFI&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=33" target="_blank">video</a>)
+   * 133 - Sözlük (Dictionary) Veri Yapısı | Tanımlama ve Elemanlara Erişim İşlemleri, (<a href="https://www.youtube.com/watch?v=xKPPehfB_0k&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=34" target="_blank">video</a>)
+   * 134 - Sözlük Veri Yapısına Eleman Ekleme ve Çıkarma, (<a href="https://www.youtube.com/watch?v=AtYxixvK6fk&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=35" target="_blank">video</a>)
+   * 135 - Sözlük (dict) Veri Yapısı ile Döngü Kullanımı (for), (<a href="httphttps://www.youtube.com/watch?v=WnXNFYLMT9E&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=36" target="_blank">video</a>)
+   * 136 - İç İçe Sözlük (dict) Veri Yapısı, Liste Örneği ile Karşılaştırma, (<a href="https://wwwhttps://www.youtube.com/watch?v=fPQ3kDQVTP8&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=37" target="_blank">video</a>)
+1. Copy & View
+   * 137 - Veri Yapılarını (list, dict) Kopyalamak | copy() Fonksiyonu | Copy-View Kavramı, (<a href="https://www.youtube.com/watch?v=1f5L5Mai274&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=38" target="_blank">video</a>)
