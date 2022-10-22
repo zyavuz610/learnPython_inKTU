@@ -3,7 +3,7 @@ Bu Github deposu Karadeniz Teknik Üniversitesinde anlatılan Python Programlama
 ---
 ## Yapay Zeka için Programlama
 * [Temel Python Programlama](0-python-intro.md)
-* Bilimsel Hesaplama için Python (Numpy, Pandas, Matplotlib)
+* [Bilimsel Hesaplama için Python (Numpy, Pandas, Matplotlib)](1-python-data.md)
 * Makine Öğrenmesine Giriş
 
 ---
