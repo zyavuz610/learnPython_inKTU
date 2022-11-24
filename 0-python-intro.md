@@ -54,3 +54,21 @@
    * 136 - İç İçe Sözlük (dict) Veri Yapısı, Liste Örneği ile Karşılaştırma, (<a href="https://wwwhttps://www.youtube.com/watch?v=fPQ3kDQVTP8&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=37" target="_blank">video</a>)
 1. Copy & View
    * 137 - Veri Yapılarını (list, dict) Kopyalamak | copy() Fonksiyonu | Copy-View Kavramı, (<a href="https://www.youtube.com/watch?v=1f5L5Mai274&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=38" target="_blank">video</a>)
+1. Dosya ve Dizin İşlemleri
+   * 138 - Dosya açmak | Dosya okumak ve ekrana yazmak | Ubuntu basit dosya listelemek, (<a href="https://www.youtube.com/watch?v=DeVk4wFYehA&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=39" target="_blank">video</a>)
+   * 139 - Dosyadan bir miktar oku | satır satır oku, readline, readlines, (<a href="https://www.youtube.com/watch?v=DeVk4wFYehA&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=40" target="_blank">video</a>)
+   * 140 - Dosya açma modları | okuma, yazma, sonuna ekleme | Dosya üzerinde döngü, (<a href="https://www.youtube.com/watch?v=DeVk4wFYehA&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=41" target="_blank">video</a>)
+   * 141 - os modülü | işletim sistemi düzeyinde dosya işlemleri, (<a href="https://www.youtube.com/watch?v=DeVk4wFYehA&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=42" target="_blank">video</a>)
+   * 142 - os modülü 2 | işletim sistemi düzeyinde klasör işlemleri, (<a href="https://www.youtube.com/watch?v=DeVk4wFYehA&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=43" target="_blank">video</a>)
+   * 143 - Uygulama: Mini işletim sistemi uygulaması, dosya-dizin işlemleri, temel linux komutları, (<a href="https://www.youtube.com/watch?v=DeVk4wFYehA&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=44" target="_blank">video</a>)
+   * 144 - Uygulama 2: Mini işletim sistemi uygulaması | dosya ve dizin işlemleri, (<a href="https://www.youtube.com/watch?v=DeVk4wFYehA&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=45" target="_blank">video</a>)
+   * 145 - Uygulama örnekleri (önceki videolarda anlatılan konularla çözülebilen), (<a href="https://www.youtube.com/watch?v=DeVk4wFYehA&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=46" target="_blank">video</a>)
+      * 146 - Dosya birleştirme
+      * 147 - Şehirler arası uzaklı bulmak
+      * 148 - Toplu dosya isimlendirme
+      * 149 - Dizin içindeki dosyaları listeleme
+1. Lambda Fonksiyon
+1. Python Iterator
+1. Değişken Tanımlama Kapsamları (Scope): local, global, fonksiyon içi
+1. String Formatlama
+1. İstisna Yakalama (try-except)
