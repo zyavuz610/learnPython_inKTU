@@ -20,7 +20,8 @@ def sumArray(arr):
         sum += i
     return sum
 
-arr = range(1, 10)
+arr = iter(range(1, 10))
+next(arr)
 
 for i in arr:
     print(i,end=",")

@@ -48,6 +48,7 @@
 1. Set (Küme) Veri Yapısı
    * 131 - Sets (Küme veri yapısı) | basit işlemler, küme üzerinde döngü ve in operatörü, (<a href="https://www.youtube.com/watch?v=NEv_8XyxfOs&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=32" target="_blank">video</a>)
    * 132 : Set (Küme) İşlemleri, eleman ekleme, silme, kesişim, birleşim, fark, simetrik fark, (<a href="https://www.youtube.com/watch?v=RTxs-vC3NFI&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=33" target="_blank">video</a>)
+1. Sözlük (Dictionary) Veri Yapısı
    * 133 - Sözlük (Dictionary) Veri Yapısı | Tanımlama ve Elemanlara Erişim İşlemleri, (<a href="https://www.youtube.com/watch?v=xKPPehfB_0k&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=34" target="_blank">video</a>)
    * 134 - Sözlük Veri Yapısına Eleman Ekleme ve Çıkarma, (<a href="https://www.youtube.com/watch?v=AtYxixvK6fk&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=35" target="_blank">video</a>)
    * 135 - Sözlük (dict) Veri Yapısı ile Döngü Kullanımı (for), (<a href="httphttps://www.youtube.com/watch?v=WnXNFYLMT9E&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=36" target="_blank">video</a>)
