@@ -51,7 +51,7 @@
 1. Sözlük (Dictionary) Veri Yapısı
    * 133 - Sözlük (Dictionary) Veri Yapısı | Tanımlama ve Elemanlara Erişim İşlemleri, (<a href="https://www.youtube.com/watch?v=xKPPehfB_0k&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=34" target="_blank">video</a>)
    * 134 - Sözlük Veri Yapısına Eleman Ekleme ve Çıkarma, (<a href="https://www.youtube.com/watch?v=AtYxixvK6fk&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=35" target="_blank">video</a>)
-   * 135 - Sözlük (dict) Veri Yapısı ile Döngü Kullanımı (for), (<a href="httphttps://www.youtube.com/watch?v=WnXNFYLMT9E&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=36" target="_blank">video</a>)
+   * 135 - Sözlük (dict) Veri Yapısı ile Döngü Kullanımı (for), (<a href="https://www.youtube.com/watch?v=WnXNFYLMT9E&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=36" target="_blank">video</a>)
    * 136 - İç İçe Sözlük (dict) Veri Yapısı, Liste Örneği ile Karşılaştırma, (<a href="https://wwwhttps://www.youtube.com/watch?v=fPQ3kDQVTP8&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=37" target="_blank">video</a>)
 1. Copy & View
    * 137 - Veri Yapılarını (list, dict) Kopyalamak | copy() Fonksiyonu | Copy-View Kavramı, (<a href="https://www.youtube.com/watch?v=1f5L5Mai274&list=PLqiHvxGteAQek8je_f8tzSLDUO0ukiRox&index=38" target="_blank">video</a>)
