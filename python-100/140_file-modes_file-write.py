@@ -19,7 +19,7 @@ Dosya İşlemleri 3
       t : text mode, default, karakter modu
       b : byte mode, 
 """
-file1 = "file.txt"
+file1 = "file1.txt"
 file2 = "file2.txt"
 
 f = open(file1,"rt")
@@ -29,6 +29,7 @@ for i in f:
   print(sehir)
   lst.append(sehir)
 f.close()
+print(lst)
 #---------------------------------
 lst.append("Balıkesir")
 lst.append("Bilecik")
@@ -39,15 +40,18 @@ lst.append("Burdur")
 lst.append("Bursa")
 print(lst)
 #----------------------------------
-f = open(file2,"w")
+f = open(file2,"wt")
 for i in lst:
-  f.write(i+"\n")
+  f.write(i+",")
 f.close()
 #------------------------------------
-f = open(file1,"a")
-for i in lst:
-  f.write(i+" \n")
-f.close()
+# f = open(file1,"a")
+# for i in lst:
+#   f.write(i+" \n")
+# f.close()
 #------------------------------------
+print("x modunda açmak")
 f = open("file3.txt","x")
 f.close()
+"""
+"""
